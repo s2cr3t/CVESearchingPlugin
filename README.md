@@ -1,4 +1,5 @@
-# WebwlkrPlugin
+# CVESearchingPlugin
+
 
 [Langbot 项目](https://github.com/RockChinQ/LangBot)的CVE漏洞查询，基于GPT的Function Calling功能实现CVE漏洞编号查询功能。
 
